@@ -1,5 +1,7 @@
 # Automatic YouTube subtitle generation
 
+Base on [yt-whisper](https://github.com/m1guelpf/yt-whisper)
+
 This repository uses `yt-dlp` and [OpenAI's Whisper](https://github.com/openai/whisper) to generate subtitle files for any youtube video.
 
 ## Installation
