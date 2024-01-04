@@ -1,0 +1,5 @@
+dist
+.DS_Store
+*.egg-info
+yt_whisper_plus/__pycache__
+build
